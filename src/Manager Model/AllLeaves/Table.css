@@ -1,0 +1,53 @@
+
+.heading {
+  margin: 70px 0 50px 0;
+  margin-left: 20%;
+
+}
+#emp {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 1rem;
+  }
+#emp td, #emp th {
+    border: 1px solid #ddd;
+    padding: 17px;
+  }
+  
+#emp tr:nth-child(even){background-color: #f2f2f2;}
+  
+#emp tr:hover {background-color: #ddd;}
+  
+#emp th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+  }
+  .button {
+    background-color: crimson;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid crimson;
+  }
+  
+  .button1:hover {
+    background-color: crimson;
+    color: white;
+  }
+  

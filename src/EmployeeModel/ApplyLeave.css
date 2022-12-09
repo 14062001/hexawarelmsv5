@@ -1,0 +1,13 @@
+@media (min-width: 1025px) {
+    .h-custom {
+        height: 100vh !important;
+    }
+}
+
+.csize {
+    font-size: larger;
+}
+
+.img {
+    height: 300px;
+}
